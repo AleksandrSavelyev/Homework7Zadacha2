@@ -1,0 +1,12 @@
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\bin\Debug\netcoreapp3.1\Homework7Zadacha2.exe
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\bin\Debug\netcoreapp3.1\Homework7Zadacha2.deps.json
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\bin\Debug\netcoreapp3.1\Homework7Zadacha2.runtimeconfig.json
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\bin\Debug\netcoreapp3.1\Homework7Zadacha2.runtimeconfig.dev.json
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\bin\Debug\netcoreapp3.1\Homework7Zadacha2.dll
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\bin\Debug\netcoreapp3.1\Homework7Zadacha2.pdb
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\obj\Debug\netcoreapp3.1\Homework7Zadacha2.AssemblyInfoInputs.cache
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\obj\Debug\netcoreapp3.1\Homework7Zadacha2.AssemblyInfo.cs
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\obj\Debug\netcoreapp3.1\Homework7Zadacha2.csproj.CoreCompileInputs.cache
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\obj\Debug\netcoreapp3.1\Homework7Zadacha2.dll
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\obj\Debug\netcoreapp3.1\Homework7Zadacha2.pdb
+D:\HomeWork(VS)\Homework7Zadacha2\Homework7Zadacha2\obj\Debug\netcoreapp3.1\Homework7Zadacha2.genruntimeconfig.cache
